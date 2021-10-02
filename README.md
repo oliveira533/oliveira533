@@ -1,7 +1,6 @@
 ### Olá, Eu Sou o Gustavo 👋
 
 - 🔭 Eu não estou trabalhando no momento
-- 🌱 Eu estou estudando React
 -  💬 Me pergunte sobre animes
 
 <div>
