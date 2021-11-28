@@ -1,7 +1,6 @@
 ### Olá, Eu Sou o Gustavo 👋
 
 - 🔭 Eu não estou trabalhando no momento
--  💬 Me pergunte sobre animes
 
 <div>
   <a href="https://github.com/oliveira533">
