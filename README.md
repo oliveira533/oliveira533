@@ -1,7 +1,7 @@
 <h1>Olá, Eu Sou o Gustavo 👋</h1>
 
 - 📖 Cursando ADS na Etec Jaraguá
-- 💻 Full
+- 💻 Full-stack Developer
 
 <div>
   <a href="https://github.com/oliveira533">
