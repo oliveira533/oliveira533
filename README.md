@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gustavo 👋</h1>
 
-- 📖 studying systems development 3/3
+- 📖 systems development - Etec Jaraguá ✔️
 - 💻 Full-stack Developer
 
 <div>
