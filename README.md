@@ -2,7 +2,7 @@
 
 - 📖 systems development technician - Etec Jaraguá ✔️
 - 📖 systems development - FMU 1/5
-- 💻 Full-stack Developer
+- 💻 Back-end Developer
 
 <div>
   <a href="https://github.com/oliveira533">
