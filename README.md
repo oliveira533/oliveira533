@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gustavo 👋</h1>
 
 - 📖 systems development technician - Etec Jaraguá ✔️
-- 📖 systems development - FMU 3/5
+- 📖 systems development - FMU 44/5
 - 💻 Back-end Developer
 
 <div>
