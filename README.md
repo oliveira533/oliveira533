@@ -1,8 +1,8 @@
 <h1>Hi, I'm Gustavo 👋</h1>
 
 - 📖 systems development technician - Etec Jaraguá ✔️
-- 📖 systems development - FMU 44/5
-- 💻 Back-end Developer
+- 📖 systems development - FMU ✔️
+- 💻 Back-end Developer At R&B Rastreabilidade Brasil
 
 <div>
   <a href="https://github.com/oliveira533">
